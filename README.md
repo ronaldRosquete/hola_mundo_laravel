@@ -7,8 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 <h3>Autores</h3>
-Ronald Rosquete Gonzalez 
-Giancarlos Rodriguez Delgado
+<p>Ronald Rosquete Gonzalez</p> 
+<p>Giancarlos Rodriguez Delgado</p>
 
 ## About Laravel
 
